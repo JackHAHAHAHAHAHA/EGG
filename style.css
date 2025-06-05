@@ -10,7 +10,7 @@ body{
     font-family: sans-serif;
 }
 div{
-    background-color: #FFF8AC;
+    background-color: white;
     text-align: center;
     padding: 30px;
     border-radius: 50px;
@@ -28,8 +28,8 @@ h4{
     margin-right: 80px;
 }
 div a{
-    background-color: #D2FF57;
-    border: 5px solid #95FF00;
+    background-color: white;
+    border: 5px solid black;
     text-decoration: none;
     color:black;
     font-size: 30px;
