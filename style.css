@@ -44,11 +44,3 @@ div a{
     margin: 10px;
     margin-bottom: 0px;
 }
-.cursor{
-    animation: move 1s infinite alternate;
-    transition: width .3s, heigth .3s;
-    width: 2rem;
-    height: 2rem;
-    position: absolute;
-    border-radius: 25%;
-}
